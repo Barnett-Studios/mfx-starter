@@ -3,7 +3,7 @@
 <!-- [![CI Status](https://github.com/lyubomir-bozhinov/mfx-starter/workflows/CI/badge.svg)](https://github.com/lyubomir-bozhinov/mfx-starter/actions) -->
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/lboz)
+
 
 > Module Federation eXperience: a no-nonsense module federation starter project to unlock your microfrontends architecture journey
 
@@ -292,9 +292,7 @@ If you encounter any issues or have questions, check the [Issues](https://github
 
 I build things — products, teams, systems… occasionally IKEA furniture (with mixed results). I’ve led engineering in everything from scrappy startups to big enterprises, but what I really love is turning ideas into real, useful tech.
 
-I’m into mentoring, scaling systems, and solving problems that make people say “well, that’s impossible.” If you like what I’m building here, you can fuel my caffeine-powered code sessions:
-
-☕ [Buy Me a Coffee](https://www.buymeacoffee.com/lboz)
+I’m into mentoring, scaling systems, and solving problems that make people say “well, that’s impossible.”
 
 Thanks for stopping by!
 
