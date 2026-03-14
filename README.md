@@ -1,6 +1,6 @@
 # MFX Starter
 
-<!-- [![CI Status](https://github.com/lyubomir-bozhinov/mfx-starter/workflows/CI/badge.svg)](https://github.com/lyubomir-bozhinov/mfx-starter/actions) -->
+<!-- [![CI Status](https://github.com/Barnett-Studios/mfx-starter/workflows/CI/badge.svg)](https://github.com/Barnett-Studios/mfx-starter/actions) -->
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
@@ -54,7 +54,7 @@ This project provides a solid foundation for teams looking to implement microfro
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/lyubomir-bozhinov/mfx-starter.git
+git clone https://github.com/Barnett-Studios/mfx-starter.git
 cd mfx-starter
 ```
 
@@ -286,7 +286,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🆘 Support
 
-If you encounter any issues or have questions, check the [Issues](https://github.com/lyubomir-bozhinov/mfx-starter/issues) page
+If you encounter any issues or have questions, check the [Issues](https://github.com/Barnett-Studios/mfx-starter/issues) page
 
 ## About Me
 
