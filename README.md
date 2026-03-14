@@ -288,13 +288,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions, check the [Issues](https://github.com/Barnett-Studios/mfx-starter/issues) page
 
-## About Me
+## About
 
-I build things — products, teams, systems… occasionally IKEA furniture (with mixed results). I’ve led engineering in everything from scrappy startups to big enterprises, but what I really love is turning ideas into real, useful tech.
-
-I’m into mentoring, scaling systems, and solving problems that make people say “well, that’s impossible.”
-
-Thanks for stopping by!
-
-**Happy trails in the MFE journey!** 🧑‍💻🔧🌐🚀
-
+Built and maintained by [Barnett Studios](https://barnett-studios.com) — a technology consultancy specialising in fractional technical leadership for startups and scale-ups.
