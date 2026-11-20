@@ -22,7 +22,7 @@
     "@mfx/eslint-config": "^1.0.0",
     "@mfx/shared-utils": "*",
     "@angular/animations": "^20.0.6",
-    "@angular/common": "^20.0.6",
+    "@angular/common": "^20.3.34",
     "@angular/compiler": "^20.0.6",
     "@angular/core": "^20.0.6",
     "@angular/forms": "^20.0.6",
